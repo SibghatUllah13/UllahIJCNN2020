@@ -1,1 +1,1 @@
-# KNN-Based-Similarity-Computation-for-VRNNs-for-Clinical-Time-Series-Forecasting
+This code is the improvised implementation of Variational Recurrent Neural Networks based on simple similarity computation such as KNN. This implementation is used to improve the performance of Variational Recurrent Neural Networks for clinical time series forecasting on MIMIC III data set. 
