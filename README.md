@@ -35,7 +35,7 @@ For this project to run you need:
 
 ## References:
 <a id="1">[1]</a> 
-A Recurrent Latent Variable Model for Sequential Data.
+Chung, Junyoung, et al. "A recurrent latent variable model for sequential data." Advances in neural information processing systems. 2015.
 
 <a id="2">[2]</a> 
-Multitask learning and benchmarking with clinical time series data.
+Harutyunyan, Hrayr, et al. "Multitask learning and benchmarking with clinical time series data." arXiv preprint arXiv:1703.07771 (2017).
