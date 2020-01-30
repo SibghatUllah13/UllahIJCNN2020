@@ -31,7 +31,6 @@ For this project to run you need:
 * Numpy 1.16.2
 * Matplotlib
 * Pandas 0.24.2
-* Seaborn
 * Scikit-learn 0.20.3 
 
 ## References:
