@@ -7,7 +7,7 @@ The study validates the concept of utilizing  external domain information to imp
 
 # Introduction
 This code is based on our paper, titled [Exploring Clinical Time Series Forecasting with
-Meta-Features in Variational Recurrent Models](https://ieeexplore.ieee.org/abstract/document/92072545) (Ullah, Xu, Wang, Menzel, Sendhoff & Bäck, 2020), and can be used to reproduce the experimental setup and results mentioned in the paper. The code is produced in Python 3.0. The main packages utilized in this code are presented in the next section which deals with technical requirements. 
+Meta-Features in Variational Recurrent Models](10.1109/IJCNN48605.2020.9207254) (Ullah, Xu, Wang, Menzel, Sendhoff & Bäck, 2020), and can be used to reproduce the experimental setup and results mentioned in the paper. The code is produced in Python 3.0. The main packages utilized in this code are presented in the next section which deals with technical requirements. 
 
 As stated earlier, we want to improve the generalization capability of VRNNs for time series forecasting. For validating our thesis, we choose a widely-accepted clinical
 benchmark data set, which is referred to as MIMIC III. Our aim is to incorporate external domain information, e.g., in this case disease information, to improve the forecasting ability of such models. Based on this external domain information, e.g., disease information about the patients, we can link the time series to each other, i.e., time series of a particular patient in the hospital should be similar to the time series of other patients with similar disease information. Then, when learning the VRNNs, we can also
