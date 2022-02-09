@@ -50,7 +50,7 @@ In our study, we re-sample the time series to ensure that we have exactly one en
 data set for learning. To this end, we utilize the notebook `prepare_data.ipynb` in the same directory.
 At the end of this, the quality of the data is enough such that it can be utilized in learning.
 
-## 2. Constructing the VRNNs, and Forecasting of the Time Series
+## 2. Constructing the VRNNs, and Forecasting the Time Series
 We can construct the VRNNs (extended and vanila) based on their goal, i.e., how many steps ahead must we forecast?
 In general, we have 10 different learning tasks, i.e., one-ten steps ahead forecasting.
 For the first task, we have the code inside the directory `1 Step Ahead Forecasting`. 
