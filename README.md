@@ -20,7 +20,7 @@ After that, we can utilize the transformed data set to construct the VRNNs model
 In our study, we evaluate the performance of VRNNs models based on 1-10 step ahead forecasting (hence a total of 10 different learning tasks).
 The code for this is provided in three directories, which  are titled `1 Step Ahead Forecasting`, `2-5 Step Ahead`, and `6-10 Step Ahead` respectively. 
 Each of these directories contains a total of four notebooks, titled `model.ipynb`, `model - sim.ipynb`, `model - prior.ipynb`, and `model - sim - prior.ipynb` respectively. 
-Where `model.ipynb` and `model - prior.ipynb` implement the vanilla VRNNs describe by [[2]](#2), the other two notebooks contain their extensions based on our idea of similarity, i.e., related.
+Where `model.ipynb` and `model - prior.ipynb` implement the vanilla VRNNs describe by [[2]](#2), the other two notebooks contain their extensions based on our idea of similarity, i.e., relatedness.
 
 In the following, we describe the technical requirements as well the instructions to run the code in a sequential manner.
 
