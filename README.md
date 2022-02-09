@@ -43,7 +43,7 @@ In the following, we describe how to reproduce the experimental setup and result
 
 ## 1. Initial Pre-processing of MIMIC III 
 The initial pre-processing of MIMIC III data set is based on the code provided by [[1]](#1). For the details on the way their pre-processing works, please refer to their work
-and our paper. After the initial pre-processing (based on the methodology of [[1]](#1)) is completed, we have to load the pre-processed data set into memory.
+and our paper. After the initial pre-processing (based on the methodology of [[1]](#1) is completed, we have to load the pre-processed data set into memory.
 For this purpose, please use the jupyter notebook `read_data_ihm.ipynb` inside the directory `Preprocess 2.0`. Next, re-sample the time series based on the notebook 
 `resample_ts.ipynb`. Re-sampling is a crucial step since the original time series is ashychrnous, e.g., not all the temporal features are observed at the same time.
 In our study, we re-sample the time series to ensure that we have exactly one entry of all the temporal variables in one hour. After this, we have to prepare the
