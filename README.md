@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3859741.svg)](https://doi.org/10.5281/zenodo.3859741)
 
 # Variational Recurrent Neural Networks (VRNNs) for Irregular, Asynchronous Clinical Time Series Forecasting
 Contains the code to forecast irregular, asynchronous, clinical time series based on VRNNs, which are variational autoencoders extended to
