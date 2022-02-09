@@ -33,6 +33,22 @@ For this project to run you need:
 * Pandas 0.24.2
 * Scikit-learn 0.20.3 
 
+# Citation
+## Paper Reference
+S. Ullah, Z. Xu, H. Wang, S. Menzel, B. Sendhoff and T. Bäck, "Exploring Clinical Time Series Forecasting with Meta-Features in Variational Recurrent Models," 2020 International Joint Conference on Neural Networks (IJCNN), 2020, pp. 1-9.
+## BibTex Reference
+`@inproceedings{ullah2020exploring`,\
+  `title={Exploring clinical time series forecasting with meta-features in variational recurrent models},`\
+  `author={Ullah, Sibghat and Xu, Zhao and Wang, Hao and Menzel, Stefan and Sendhoff, Bernhard and B{\"a}ck, Thomas},`\
+  `booktitle={2020 International Joint Conference on Neural Networks (IJCNN)},`\
+  `pages={1--9},`\
+  `year={2020},`\
+  `organization={IEEE}`\
+`}`
+
+# Acknowledgements
+This research has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement number 766186 (ECOLE).
+
 ## References:
 <a id="1">[1]</a> 
 Chung, Junyoung, et al. "A recurrent latent variable model for sequential data." Advances in neural information processing systems. 2015.
